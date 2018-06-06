@@ -14,7 +14,6 @@
                     $("p#display").append(`<p>${data["lyrics"]}</p>`) 
                     
                 /*} );*/
-                
            /*console.log(data["lyrics"]); */
 
         
