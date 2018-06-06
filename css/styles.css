@@ -1,0 +1,88 @@
+.name {
+  background-color: orchid;
+}
+
+
+
+.topRow {
+  display: flex;
+  padding-bottom: 10px;
+  margin-top: 2px;
+}
+
+.textField {
+  background-color:green;
+  flex: 3;
+  order: 1;
+}
+
+.button {
+  background-color : rgb(87, 201, 112);
+  flex: 1;
+  order: 2;
+}
+
+#lyricsDisplay {
+  background-color: rgba(99, 233, 117, 0.74);
+  padding-top: 10px;
+  width: 100%;
+}
+
+.inputFields{
+  width: 70%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+  shape-margin: 50px;
+  }
+.getLyrics{
+  padding-top: 60px;
+ 
+  padding-left: 70px; 
+
+}
+.jumbotron{
+background-color: blueviolet;
+margin-top: 5px;
+background-image: url("../images/lyrics2.jpeg")
+
+}
+header{
+  flex: 4;
+  order: 1;
+}
+img {
+  flex:1;
+  order:2;
+  height: 50px;
+  width: 50px;
+  
+}
+header{
+  text-align: center;
+  font-size: 50px;
+  color:rgb(219, 74, 30);
+  font-style: oblique;
+}
+#display{
+  background-color:aqua;
+  font-size: 20px;
+  flex:1;
+  order:1;
+}
+.bottom{
+  display:flex;
+
+}
+#player{
+  background-color:rgb(94, 255, 0);
+  
+  flex:2;
+  order:2;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: ;
+
+}
